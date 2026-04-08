@@ -6,7 +6,6 @@
   <title>Remixxer</title>
   <link rel="stylesheet" type="text/css" href="externalRemixxer.css"/>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=search" />
-<!-- yayaahs -->
   <style>
     h3 {
       text-align: center;
@@ -15,7 +14,7 @@
       color: rgb(5, 5, 5);
     }
 
-    /* Categories style and sammy is gay and likes boys*/
+    /* Categories style*/
     h5 .Categories {
 display: flex;
 flex-direction: column;
